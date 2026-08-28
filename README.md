@@ -93,4 +93,4 @@ browser-use(⭐11만) 같은 유명 도구와 같은 원리로 움직이지만,
 
 ---
 
-*BEssential · 2026 · 문의는 Roy에게*
+*BEssential · 2026 · 문의는 GitHub Issues로*
